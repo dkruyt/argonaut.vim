@@ -1,0 +1,10 @@
+{
+  "name": "argonaut",
+  "version": "1.0.0",
+  "repository": "git@github.com:dkruyt@argonaut.git",
+  "author": "Felipe Kaufmann",
+  "license": "unkown",
+  "vim": {
+    "opt": true
+  }
+}
